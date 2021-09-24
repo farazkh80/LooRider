@@ -313,7 +313,6 @@ def find_directions(ordered_path_list):
     print(directions)
     return directions
 
- #  return (directions)
 
 # Main function to find the path
 def find_the_path(board):

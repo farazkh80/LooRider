@@ -1,4 +1,4 @@
-#send instrustions array
+#send instrustions array in form of C#
 def updatePath(instructions):
     file_ = open("firmware.ino", "r")
     message = ""
